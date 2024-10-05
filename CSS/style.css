@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(152, 193, 255);
+}
+nav{
+    background-color: rgb(30, 99, 131);
+}
+table{
+    background-color: rgb(134, 175, 202);
+}
+
+.thead-dark{
+    background-color: rgb(164, 208, 216);
+}
+
+.p3{
+    color: white;
+    background-color: black;
+    font-size: 30px;
+}
+
+.p4{
+    color: white;
+    background-color: rgb(99, 127, 168);
+    font-size: 30px;
+}
+
+.p6{
+    background-color:  rgb(164, 208, 216) ;
+}
+
+
+.body1{
+    background-color: rgb(164, 208, 216);
+}
+
+.p2{
+    color: white;
+    background-color:  rgb(134, 175, 202);
+    font-size: 25px;
+}
